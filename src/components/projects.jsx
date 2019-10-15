@@ -26,7 +26,8 @@ export default class Projects extends Component {
             <Card shadow={5}>
               <CardTitle className="reactCardTitle">Smart Home PWA</CardTitle>
               <CardText>
-                IoT home automation system real-time progressive web app
+                IoT home automation system progressive web app that communicates
+                via Firebase to a Raspberry Pi in real-time
               </CardText>
               <CardActions border>
                 <Button colored>

@@ -17,7 +17,6 @@ export default class Homepage extends Component {
               <p>MongoDB | ExpressJS | React | NodeJS</p>
               <p>HTML | CSS | JavaScript | Redux | Mongoose | Firebase | Git</p>
               <div className="social-links">
-                {/* LinkedIn */}
                 <a
                   href="https://www.linkedin.com/in/vincenzo-mann/"
                   target="_blank"
@@ -25,7 +24,6 @@ export default class Homepage extends Component {
                 >
                   <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
-                {/* GitHub */}
                 <a
                   href="https://github.com/vincenzomann"
                   target="_blank"
