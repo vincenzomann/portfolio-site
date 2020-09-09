@@ -19,7 +19,7 @@ export default class Contact extends Component {
             <li>
               <span>
                 <i className="fa fa-home" aria-hidden="true" />
-                <span>11C Handforth Road, London, SW9 0LL</span>
+                <span>24 Beresford Road, Southend, SS1 2TW</span>
               </span>
             </li>
             <li>
