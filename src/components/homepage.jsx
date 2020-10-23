@@ -12,10 +12,10 @@ export default class Homepage extends Component {
           <Cell col={12}>
             <img className="profile-pic" src="profilepic.png" alt="" />
             <div className="banner-text">
-              <h1>MERN Full-stack Developer</h1>
+              <h1>Full-stack Developer</h1>
               <hr />
-              <p>MongoDB | ExpressJS | React | NodeJS</p>
-              <p>HTML | CSS | JavaScript | Redux | Mongoose | Firebase | Git</p>
+              <p>React | ExpressJS | NodeJS</p>
+              <p>HTML | CSS | JavaScript | TypeScript | Firebase | MongoDB | Git</p>
               <div className="social-links">
                 <a
                   href="https://www.linkedin.com/in/vincenzo-mann/"
